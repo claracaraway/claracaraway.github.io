@@ -12,6 +12,8 @@ main:
     url: /clara/
   - title: "YTK"
     url: /YTK/
+  - title: "GTD"
+    url: /GTD/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"

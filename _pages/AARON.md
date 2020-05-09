@@ -4,4 +4,12 @@ title: "Aaron"
 permalink: /projects/aaron/
 ---
 
-# Aaron
+# PROJECTS:
+
+Complete UJS
+Complete UWD
+Finish CtCi
+
+# ONGOING:
+
+Math Practice
