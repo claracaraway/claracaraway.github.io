@@ -2,48 +2,19 @@
 layout: home
 title: "GTD"
 permalink: /projects/GTD/
+classes: wide
 ---
 
-# PROJECT PLANNING:
 
-1 | Defining purpose and principles
-2 | Outcome visioning
-3 | Brainstorming
-4 | Organizing
 
-+ Identify the significant pieces.
-+ Sort by (one or more):
-+ components
-+ sequences
-+ priorities
-+ Detail to the required degree
 
-5 | Identifying next actions
-
-# KEY PROCESSING QUESTIONS:
-
-1. What is it?
-2. Is it actionable?
-3. What’s the desired outcome? If multi-step, write it on your Projects/Outcomes list.
-4. What’s the next (physical/visible) action? Write it on the appropriate Next Actions list.
-
-# BEST PRACTICES:
-
-* Start Next Actions with a **VERB** 
-* Add date you started waiting on **WAITING FOR**
-* Notes about Projects can be added to the description field for each project on the list (as well as uploaded files)
-
-## NOTES:
-
-* AGENDAS: For standing items to discuss or bring to a meeting (not for next action triggers)
-* SOMEDAY/MAYBE: Many people find they triage things into and off of the Someday/Maybe list when priorities shift. Only committment to Someday/Maybe list is to review weekly on weekly reviews
-* Next Actions don't replace project plansProject Support remains the parking lot for actions that are incubated for future action
-
-### PROJECTS: 
-* Tracks any desired outcomes that require 3+ steps which should be done over the next 12 months. 
-* Projects should always have a defined endpoint
-* Checklists section in projects should only hold future actions, project plans, notes and support material. Current actions are tracked on context lists. 
-
-# INTEGRATING WITH JIRA:
-
-As a <type of user> I want <some goal> so that <some reason>
+<ul>
+{% for post in posts %}
+  {% if post.tags contains 'gtd' %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
