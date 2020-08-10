@@ -3,15 +3,15 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /abbout/
+    url: /about/
+  - title: "750"
+    url: /projects/750/
   - title: "Aaron"
-    url: /aaron/
+    url: https://aaroncaraway.github.io/
   - title: "Daniel"
-    url: /daniel/
-  - title: "Clara"
-    url: /clara/
+    url: https://danielcaraway.github.io/
   - title: "YTK"
-    url: /YTK/
+    url: https://yesthisiskendra.github.io/
   - title: "GTD"
     url: /projects/GTD/
   - title: "Sample Posts"

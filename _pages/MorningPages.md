@@ -4,6 +4,37 @@ title: "750"
 permalink: /projects/750/
 ---
 
+## TEMPLATE
+
+## YESTERDAY
+
+### HEALTH--
+
+HAPPINESS:
+EXERCISE:
+SLEEP_LAST_NIGHT:
+DINNER:
+ALCOHOL:
+MEDS:
+CHORES:
+
+### PERSONAL--
+
+ENTERTAINMENT:
+FRIENDS:
+HIGH:
+LOW:
+HIGH:
+
+### WORK--
+
+ROSE:
+CACTUS:
+ROCKET:
+PROJECTS:
+
+## PROMPTS
+
 DEAR **\_\_\_**: (ELAINE?)
 THANK YOU, **\_\_\_**:
 THINGS I'VE TOUCHED:
