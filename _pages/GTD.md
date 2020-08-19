@@ -5,8 +5,13 @@ permalink: /projects/GTD/
 classes: wide
 ---
 
+## BASH TOOLS
 
+Find the differences in two directories
 
+```
+diff -rq dir1 dir2 | grep 'Only in dir2/'
+```
 
 <ul>
 {% for post in posts %}
