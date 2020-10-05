@@ -10,7 +10,7 @@ strong faith reactions. Beliefs can't be shaken short of a major shock, in which
 complete mental disruption results. Mild cases-hysteria, morbid sense of insecurity. Advanced
 cases - madness and suicide."
 
-It was Seldon, then, who foresaw, against all common sense and popular belief, that the
+It was Seldon, then, who foresaw, against all common sense and popular belief, that thecd nstal
 brilliant Empire which seemed so strong was in a state of irremediable decay and decline. He
 foresaw (or he solved his equations and interpreted its symbols, which amounts to the same
 thing) that left to itself, the Galaxy would pass through a thirty thousand year period of misery
