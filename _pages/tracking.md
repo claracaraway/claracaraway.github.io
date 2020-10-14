@@ -5,6 +5,7 @@ permalink: /tracking/
 ---
 
 
+
 [Recursion for Beginners: A Beginner's Guide to Recursion](https://www.youtube.com/watch?v=AfBqVVKg4GE)
 
 1. Understanding recursion requires the understanding of THE CALL STACK (which is hard because it's invisible in python)
