@@ -27,4 +27,4 @@ Sam says I should stop writing about despair and try to live the despair-free li
 
 On days like today, everything is a chore. All songs are sad songs and I am alone. So very alone in the biggest group. I st alone. Alone. Alone. Alone Alone. Sinking, falling, down my own hole that I dig for myself against my own will. Here I have decorated the walls with my broken parts I have unearthed along the way... cleaning them off with my tears.
 
-In these moments, my mantras all leave me and I'm left with planes filled with nothing. Open holes in my head. They have all decided to wait out the storm elsewhere the fair-weather friends of my psyche.
+In these moments, my mantras all leave me and I'm left with plains filled with nothing. Open holes in my head. They have all decided to wait out the storm elsewhere the fair-weather friends of my psyche.
