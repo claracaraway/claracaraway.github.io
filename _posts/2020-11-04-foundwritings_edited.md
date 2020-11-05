@@ -1,11 +1,14 @@
+
+
+
 ---
 layout: single
-title: "Found writings 10-27-20"
+title: "Found writings 11-04-20"
 tags: writing
 ---
 
 
-## From a 2009 Journal
+## From a 2009 Journal (quick edits)
 
 (during my time in Madrid, Spain)
 
@@ -25,6 +28,23 @@ I want to hear it but someone has turned off my ears.
 
 Sam says I should stop writing about despair and try to live the despair-free life I advertise, but, quite honestly, I haven't figured it out yet. So, until then, I will keep writing about this. I have something to say and I have many questions that I fear I left my [unfinished]
 
-On days like today, everything is a chore. All songs are sad songs and I am alone. So very alone in the biggest group. I sit alone. Alone. Alone. Alone Alone. Sinking, falling, down the hole that I dig for myself against my own will. Here I have decorated the walls with my broken parts I have unearthed along the way... cleaning them off with my tears.
+Today, everything is a chore. 
+All songs are sad songs 
+and I am alone. So very alone 
+in the biggest group. I sit alone.
+Alone. Alone. Alone Alone. Sinking, 
+falling, down the hole that I dig for myself 
+against my own will. Here I decorate the walls with the broken parts of myself I unearth along the way.
+I've been in this hole before. 
+The pieces are shined by my tears. 
 
-In these moments, my mantras all leave me and I'm left with plans filled with nothing. Open holes in my head. They have all decided to wait out the storm elsewhere the fair-weather friends of my psyche.
+
+In these moments, my mantras all leave me. 
+I'm left with plans filled with nothing -- open holes in my head.
+In these moments, my defences are gone. 
+
+I'm left with plans 
+filled with nothing. 
+
+Open holes in my head. 
+They have all decided to wait out the storm elsewhere the fair-weather friends of my psyche.
