@@ -6,8 +6,15 @@ permalink: /projects/
 
 ## CURRENTLY WORKING ON:
 
-1. Beads
-2. Doormats
+### MOMENTUM
+
+1. BOOKS
+   1. Things I've Learned from the Internet
+   2. Clara Collects
+2. Miss Mittens Halfway House
+3. Creative Studio, NAME TBD
+4. Beads
+5. Doormats
 
 ## BACKLOG:
 
